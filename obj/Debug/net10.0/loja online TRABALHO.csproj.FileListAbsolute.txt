@@ -1,0 +1,98 @@
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\bin\Debug\net10.0\appsettings.json
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\bin\Debug\net10.0\loja online TRABALHO.staticwebassets.runtime.json
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\bin\Debug\net10.0\loja online TRABALHO.staticwebassets.endpoints.json
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\bin\Debug\net10.0\loja online TRABALHO.exe
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\bin\Debug\net10.0\loja online TRABALHO.deps.json
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\bin\Debug\net10.0\loja online TRABALHO.runtimeconfig.json
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\bin\Debug\net10.0\loja online TRABALHO.dll
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\bin\Debug\net10.0\loja online TRABALHO.pdb
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\loja online TRABALHO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\loja online TRABALHO.AssemblyInfoInputs.cache
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\loja online TRABALHO.AssemblyInfo.cs
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\loja online TRABALHO.csproj.CoreCompileInputs.cache
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\loja online TRABALHO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\loja online TRABALHO.RazorAssemblyInfo.cache
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\loja online TRABALHO.RazorAssemblyInfo.cs
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\scopedcss\bundle\loja online TRABALHO.styles.css
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\scopedcss\projectbundle\loja online TRABALHO.bundle.scp.css
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\cyfhc4dyu0-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\curg2cap7l-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\rspoyae6nj-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\2byq3xt60r-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\lodufzvyvj-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\f3ld7fer27-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\yr8u3j1uba-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\lvky8lrhue-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\n5bb140f3c-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\qj9n0ixr7v-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\rfhbyabn45-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\r9ayj9omw3-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\881mgi88l5-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\474gwntauh-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\o1a6z7awni-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\ic7c1u6ij5-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\yklalp36a9-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\1pcudzpiga-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\vr2nwzibmx-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\qqkz6t6ns7-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\j01tuwzseq-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\786h147xbf-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\6r0pxyi2fb-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\mnodavo7pu-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\drjn81knay-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\tud3xb13hn-{0}-06098lyss8-06098lyss8.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\6nc34j6dt0-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\5wfue5mqzj-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\fagcy7jp50-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\grkl9xfbrt-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\1jkjjyzu4l-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\jjj0tx0p67-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\8ecwqdne7a-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\ivbex9q1un-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\qynmpepg2b-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\v8lmgsliqv-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\7c6hbji2pm-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\cj3ptflo5j-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\vtwzoeoo0c-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\rerjnsgleo-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\lu69f9u54y-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\5l49q9tyr0-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\68n6y2udre-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\iiz7e1lxs1-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\zp5tmfgpr3-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\l4cg9cvbxt-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\p9yhvuk2k5-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\pigpf3iftz-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\d9ojd9hxrf-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\ymxq3muy57-{0}-356vix0kms-356vix0kms.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\4prqpvl01b-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\a9k2kn9uv5-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\izzmngl1ho-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\itwv2dfejr-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\zdnvc8lwrz-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\ffvmrjwwil-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\0qnn3rf2l2-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\a4ubibe6gz-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\5rq46rinwq-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\h1tv0wfkcs-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\7pmce11krb-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\32rks153ig-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\fnhww80eey-{0}-5ynysos5sh-5ynysos5sh.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\compressed\789q4jomja-{0}-5ynysos5sh-5ynysos5sh.gz
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\loja online TRABALHO.dll
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\refint\loja online TRABALHO.dll
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\loja online TRABALHO.pdb
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\loja online TRABALHO.genruntimeconfig.cache
+C:\Users\a39406\source\repos\loja online TRABALHO\loja online TRABALHO\obj\Debug\net10.0\ref\loja online TRABALHO.dll

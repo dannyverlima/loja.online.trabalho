@@ -1,0 +1,225 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .hero-section {
+        background: linear-gradient(135deg, #0057B7 0%, #003d80 50%, #FFD700 100%);
+        height: 350px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        margin: -1rem -12px 2rem -12px;
+        position: relative;
+        overflow: hidden;
+    }
+    .hero-section::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: url('https://images.unsplash.com/photo-1504148455328-c376907d081c?w=1920') center/cover;
+        opacity: 0.2;
+    }
+    .hero-content {
+        text-align: center;
+        padding: 2rem;
+        position: relative;
+        z-index: 1;
+    }
+    .hero-title {
+        font-size: 3rem;
+        font-weight: bold;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        text-shadow: 3px 3px 6px rgba(0,0,0,0.4);
+    }
+    .hero-subtitle {
+        font-size: 1.5rem;
+        color: #FFD700;
+        font-weight: bold;
+        margin-top: 10px;
+    }
+    .hero-flags {
+        font-size: 3rem;
+        margin-top: 15px;
+    }
+    .btn-category {
+        padding: 12px 35px;
+        margin: 5px;
+        border: 2px solid #FFD700;
+        background: transparent;
+        color: #FFD700;
+        text-transform: uppercase;
+        font-weight: bold;
+        transition: all 0.3s;
+        border-radius: 5px;
+    }
+    .btn-category:hover {
+        background: #FFD700;
+        color: #0057B7;
+    }
+    .btn-category.active {
+        background: #FFD700;
+        color: #0057B7;
+    }
+    .section-title {
+        text-align: center;
+        margin: 3rem 0 1rem;
+    }
+    .section-title h2 {
+        font-weight: bold;
+        color: #0057B7;
+        font-style: italic;
+    }
+    .section-title p {
+        color: #666;
+    }
+    .product-card {
+        background: linear-gradient(145deg, #f8f8f8 0%, #e8e8e8 100%);
+        padding: 20px;
+        margin-bottom: 30px;
+        text-align: center;
+        transition: transform 0.3s, box-shadow 0.3s;
+        border-radius: 10px;
+        border: 2px solid transparent;
+    }
+    .product-card:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 15px 40px rgba(0,87,183,0.2);
+        border-color: #FFD700;
+    }
+    .product-card img {
+        max-width: 100%;
+        height: 180px;
+        object-fit: contain;
+        margin-bottom: 15px;
+    }
+    .product-name {
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 0.85rem;
+        margin-bottom: 5px;
+        color: #0057B7;
+    }
+    .product-price {
+        color: #333;
+        font-weight: bold;
+        font-size: 1.2rem;
+    }
+    .product-brand {
+        color: #FFD700;
+        background: #0057B7;
+        padding: 2px 10px;
+        border-radius: 3px;
+        font-size: 0.7rem;
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    .product-store {
+        color: #888;
+        font-size: 0.8rem;
+        margin-top: 5px;
+    }
+    .free-shipping {
+        color: #28a745;
+        font-size: 0.75rem;
+    }
+</style>
+
+<!-- Banner Hero -->
+<div class="hero-section">
+    <div class="hero-content">
+        <div class="hero-title">UCRENRUSS MaKota</div>
+        <div class="hero-subtitle">Ferramentas Profissionais de Alta Qualidade</div>
+        <div class="hero-flags">🇺🇦 🤝 🇷🇺</div>
+        <div class="mt-4">
+            <button class="btn btn-category active">BERBEQUINS</button>
+            <button class="btn btn-category">SERRAS</button>
+            <button class="btn btn-category">KITS</button>
+        </div>
+    </div>
+</div>
+
+<!-- Secção Novidades -->
+<div class="section-title">
+    <h2>NOVIDADES EM FERRAMENTAS!</h2>
+    <p>Descubra as melhores ferramentas profissionais para os seus projetos.</p>
+</div>
+
+<!-- Grid de Produtos -->
+<div class="row">
+    <div class="col-lg-4 col-md-6">
+        <div class="product-card">
+            <span class="product-brand">MaKota</span>
+            <img src="https://images.unsplash.com/photo-1504148455328-c376907d081c?w=400" alt="Serra Circular">
+            <div class="product-name">MaKota DSS611Z <span style="font-weight:normal">Serra Circular 18V</span></div>
+            <div class="product-price">€ 156,07</div>
+            <div class="product-store">Ucrenruss.pt</div>
+            <div class="free-shipping"><i class="fas fa-truck"></i> Grátis</div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+        <div class="product-card">
+            <span class="product-brand">MaKota</span>
+            <img src="https://images.unsplash.com/photo-1572981779307-38b8cabb2407?w=400" alt="Serra Circular">
+            <div class="product-name">Enventor 1400W <span style="font-weight:normal">Serra Circular</span></div>
+            <div class="product-price">€ 60,98</div>
+            <div class="product-store">Ucrenruss.pt</div>
+            <div class="free-shipping"><i class="fas fa-truck"></i> Grátis</div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+        <div class="product-card">
+            <span class="product-brand">MaKota</span>
+            <img src="https://images.unsplash.com/photo-1530124566582-a618bc2615dc?w=400" alt="Kit Combo">
+            <div class="product-name">Kit Combo 3 <span style="font-weight:normal">Ferramentas 18V</span></div>
+            <div class="product-price">€ 598,97</div>
+            <div class="product-store">Ferramentas.pt</div>
+            <div class="free-shipping"><i class="fas fa-truck"></i> Grátis</div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+        <div class="product-card">
+            <span class="product-brand">MaKota PRO</span>
+            <img src="https://images.unsplash.com/photo-1504148455328-c376907d081c?w=400" alt="Kit Berbequim">
+            <div class="product-name">MaKota KIT <span style="font-weight:normal">18V Berbequim</span></div>
+            <div class="product-price">€ 851,86</div>
+            <div class="product-store">Ucrenruss.pt</div>
+            <div class="free-shipping"><i class="fas fa-truck"></i> Grátis</div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+        <div class="product-card">
+            <span class="product-brand">MaKota</span>
+            <img src="https://images.unsplash.com/photo-1580402427914-a6cc60d7c574?w=400" alt="Caixa Ferramentas">
+            <div class="product-name">DEKO Caixa <span style="font-weight:normal">Ferramentas Completa</span></div>
+            <div class="product-price">€ 52,85</div>
+            <div class="product-store">Ucrenruss.pt</div>
+            <div class="free-shipping"><i class="fas fa-truck"></i> Grátis</div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+        <div class="product-card">
+            <span class="product-brand">MaKota MAX</span>
+            <img src="https://images.unsplash.com/photo-1530124566582-a618bc2615dc?w=400" alt="Kit 7 máquinas">
+            <div class="product-name">Kit 7 Máquinas <span style="font-weight:normal">MaKota 18V DDF</span></div>
+            <div class="product-price">€ 1.540,05</div>
+            <div class="product-store">Brico Depôt PT</div>
+            <div class="free-shipping"><i class="fas fa-truck"></i> Grátis</div>
+        </div>
+    </div>
+</div>
+
+<!-- Banner Promocional -->
+<div class="row mt-5">
+    <div class="col-12">
+        <div style="background: linear-gradient(90deg, #0057B7, #FFD700); padding: 30px; border-radius: 10px; text-align: center; color: white;">
+            <h3 style="margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">🇺🇦 PROMOÇÃO ESPECIAL 🇷🇺</h3>
+            <p style="margin: 10px 0 0; font-size: 1.2rem;">Use o código <strong>UCRENRUSS2026</strong> para 15% de desconto!</p>
+        </div>
+    </div>
+</div>

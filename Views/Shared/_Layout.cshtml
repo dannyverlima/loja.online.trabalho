@@ -1,0 +1,191 @@
+﻿<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Ucrenruss MaKota</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/loja_online_TRABALHO.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <style>
+        :root {
+            --ukraine-blue: #0057B7;
+            --ukraine-yellow: #FFD700;
+            --russia-red: #D52B1E;
+            --russia-blue: #0039A6;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .top-announcement {
+            background: linear-gradient(90deg, var(--ukraine-blue) 0%, var(--ukraine-blue) 50%, var(--ukraine-yellow) 50%, var(--ukraine-yellow) 100%);
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            font-size: 0.9rem;
+            font-weight: bold;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+        }
+        .flags-bar {
+            display: flex;
+            height: 6px;
+        }
+        .flag-ukraine {
+            flex: 1;
+            background: linear-gradient(180deg, var(--ukraine-blue) 50%, var(--ukraine-yellow) 50%);
+        }
+        .flag-russia {
+            flex: 1;
+            background: linear-gradient(180deg, #fff 33%, var(--russia-blue) 33%, var(--russia-blue) 66%, var(--russia-red) 66%);
+        }
+        .main-nav {
+            background: linear-gradient(135deg, var(--ukraine-blue) 0%, #003d80 100%);
+            padding: 15px 0;
+            border-bottom: 3px solid var(--ukraine-yellow);
+        }
+        .brand-logo {
+            font-size: 1.6rem;
+            font-weight: bold;
+            color: var(--ukraine-yellow);
+            text-decoration: none;
+            letter-spacing: 2px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        .brand-logo:hover {
+            color: #fff;
+        }
+        .brand-logo .makota {
+            color: #fff;
+            font-size: 2rem;
+        }
+        .nav-menu a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+        .nav-menu a:hover {
+            color: var(--ukraine-yellow);
+        }
+        .nav-icons a {
+            color: #fff;
+            margin-left: 20px;
+            font-size: 1.1rem;
+        }
+        .nav-icons a:hover {
+            color: var(--ukraine-yellow);
+        }
+        footer {
+            background: linear-gradient(135deg, #1a1a1a 0%, var(--ukraine-blue) 100%);
+            color: #fff;
+            padding: 40px 0 20px;
+            margin-top: 50px;
+        }
+        footer a {
+            color: var(--ukraine-yellow);
+            text-decoration: none;
+        }
+        footer a:hover {
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <!-- Barra de Bandeiras -->
+    <div class="flags-bar">
+        <div class="flag-ukraine"></div>
+        <div class="flag-russia"></div>
+    </div>
+
+    <!-- Barra de Anúncio -->
+    <div class="top-announcement">
+        <i class="fas fa-truck"></i> ENVIO GRÁTIS PARA COMPRAS ACIMA DE 150€ | 🇺🇦 UNIÃO 🇷🇺
+    </div>
+
+    <!-- Navegação Principal -->
+    <header class="main-nav">
+        <div class="container-fluid">
+            <div class="d-flex justify-content-between align-items-center">
+                <!-- Menu Esquerdo -->
+                <nav class="nav-menu d-none d-lg-block">
+                    <a href="#">BERBEQUINS</a>
+                    <a href="#">SERRAS</a>
+                    <a href="#">APARAFUSADORAS</a>
+                    <a href="#">KITS</a>
+                    <a href="#">ACESSÓRIOS</a>
+                </nav>
+
+                <!-- Logo Central -->
+                <a class="brand-logo" asp-area="" asp-controller="Home" asp-action="Index">
+                    <span>UCRENRUSS</span> <span class="makota">MaKota</span>
+                </a>
+
+                <!-- Ícones Direita -->
+                <div class="nav-icons">
+                    <a href="#"><i class="fas fa-search"></i></a>
+                    <a href="#"><i class="far fa-heart"></i></a>
+                    <a href="#"><i class="fas fa-shopping-cart"></i></a>
+                    <a href="#"><i class="far fa-user"></i></a>
+                </div>
+            </div>
+
+            <!-- Menu Mobile -->
+            <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#mobileNav" style="background: var(--ukraine-yellow);">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse d-lg-none" id="mobileNav">
+                <nav class="nav-menu py-3">
+                    <a href="#" class="d-block my-2">BERBEQUINS</a>
+                    <a href="#" class="d-block my-2">SERRAS</a>
+                    <a href="#" class="d-block my-2">APARAFUSADORAS</a>
+                    <a href="#" class="d-block my-2">KITS</a>
+                    <a href="#" class="d-block my-2">ACESSÓRIOS</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="container-fluid px-4">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 mb-4">
+                    <h5 style="color: var(--ukraine-yellow);">UCRENRUSS MaKota</h5>
+                    <p class="text-light">A sua loja de referência em ferramentas elétricas profissionais de alta qualidade. 🇺🇦🇷🇺</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <h6>LINKS ÚTEIS</h6>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Sobre Nós</a></li>
+                        <li><a href="#">Contacto</a></li>
+                        <li><a asp-area="" asp-controller="Home" asp-action="Privacy">Privacidade</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <h6>REDES SOCIAIS</h6>
+                    <a href="#" class="me-3"><i class="fab fa-facebook fa-lg"></i></a>
+                    <a href="#" class="me-3"><i class="fab fa-instagram fa-lg"></i></a>
+                    <a href="#" class="me-3"><i class="fab fa-youtube fa-lg"></i></a>
+                </div>
+            </div>
+            <hr style="border-color: var(--ukraine-yellow);">
+            <p class="text-center text-light mb-0">&copy; 2026 - Ucrenruss MaKota - Ferramentas Profissionais - Todos os direitos reservados</p>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
